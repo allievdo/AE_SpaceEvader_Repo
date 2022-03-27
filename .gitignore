@@ -70,3 +70,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Cubethon/Assets/Scenes/Level02.unity
+Cubethon/Assets/Scenes/Level02.unity.meta
+Cubethon/Assets/Scenes/Level03.unity
+Cubethon/Assets/Scenes/Level03.unity.meta
+Cubethon/Assets/Scenes/Menu.unity
+Cubethon/Assets/Scenes/Menu.unity.meta
+Cubethon/Assets/Scripts.meta
+Cubethon/Assets/Scripts/Credits.cs
+Cubethon/Assets/Scripts/Credits.cs.meta
+Cubethon/Assets/Scripts/EndTrigger.cs
+Cubethon/Assets/Scripts/EndTrigger.cs.meta
+Cubethon/Assets/Scripts/FollowPlayer.cs
+Cubethon/Assets/Scripts/FollowPlayer.cs.meta
+Cubethon/Assets/Scripts/GameManager.cs
+Cubethon/Assets/Scripts/GameManager.cs.meta
